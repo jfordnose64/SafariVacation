@@ -1,0 +1,11 @@
+/Users/jacksonford/SDG/csharp/SafariVacation/bin/Debug/netcoreapp2.2/SafariVacation.deps.json
+/Users/jacksonford/SDG/csharp/SafariVacation/bin/Debug/netcoreapp2.2/SafariVacation.runtimeconfig.json
+/Users/jacksonford/SDG/csharp/SafariVacation/bin/Debug/netcoreapp2.2/SafariVacation.runtimeconfig.dev.json
+/Users/jacksonford/SDG/csharp/SafariVacation/bin/Debug/netcoreapp2.2/SafariVacation.dll
+/Users/jacksonford/SDG/csharp/SafariVacation/bin/Debug/netcoreapp2.2/SafariVacation.pdb
+/Users/jacksonford/SDG/csharp/SafariVacation/obj/Debug/netcoreapp2.2/SafariVacation.csprojAssemblyReference.cache
+/Users/jacksonford/SDG/csharp/SafariVacation/obj/Debug/netcoreapp2.2/SafariVacation.csproj.CoreCompileInputs.cache
+/Users/jacksonford/SDG/csharp/SafariVacation/obj/Debug/netcoreapp2.2/SafariVacation.AssemblyInfoInputs.cache
+/Users/jacksonford/SDG/csharp/SafariVacation/obj/Debug/netcoreapp2.2/SafariVacation.AssemblyInfo.cs
+/Users/jacksonford/SDG/csharp/SafariVacation/obj/Debug/netcoreapp2.2/SafariVacation.dll
+/Users/jacksonford/SDG/csharp/SafariVacation/obj/Debug/netcoreapp2.2/SafariVacation.pdb
